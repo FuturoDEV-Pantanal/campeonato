@@ -1,1 +1,1 @@
-Aplicação com Tabela de Campeonato desenvolvida na semana 07 do Módulo 01.
+Aplicacao desenvolvida na semana 07 do módulo 01.

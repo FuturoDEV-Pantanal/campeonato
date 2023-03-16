@@ -1,0 +1,33 @@
+table {
+    border-collapse: collapse;
+    margin: 20px 0px;
+}
+
+table, tr, th, td {
+    border: 1px solid;
+    padding: 10px;
+}
+
+table th {
+    background-color: #00CC00;
+}
+
+table tr {
+    background-color: #ddd;
+}
+
+table tr:hover {
+    background-color: #CCFFCC;
+}
+
+.time-nome {
+    font-weight: bold;
+}
+
+/* table td {
+    background-color: #ddd;
+} */
+
+/* table tr:nth-child(2){
+    background-color: #f2f2f2;
+} */

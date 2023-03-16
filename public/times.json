@@ -1,0 +1,10 @@
+[
+    { "nome": "São Paulo Futebol Clube", "sigla": "SPFC"},
+    { "nome": "Palmeiras", "sigla": "PAL"},
+    { "nome": "Flamengo", "sigla": "FLA"},
+    { "nome": "Grêmio", "sigla": "GRE"},
+    { "nome": "Internacional", "sigla": "INTER"},
+    { "nome": "Fluminense", "sigla": "FLU"},
+    { "nome": "Avaí", "sigla": "AVA"},
+    { "nome": "Figueirense", "sigla": "FIG"}
+]
